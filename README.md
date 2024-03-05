@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nomusa Mtshali
 #### Aspiring Junior Front-End Developer
-![Aspiring Junior Front-End Developer]
+
 
 I am a goal-driven and ambitious individual who thrives on challenges and meaningful connections. I have a passion for problem-solving and innovation. I am one person who loves to help people out. I am constantly seeking out opportunities to expand my knowledge and skills, eager to tackle new challenges and push the boundaries of what's possible. I'm one person who embraces challenges as opportunities for growth, constantly seeking to learn and evolve. I'm very fun and outgoing. I'm loving and quite talkative. I'm currently a CodeSpace student, studying software engineering.
 
